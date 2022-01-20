@@ -1,2 +1,3 @@
 Texto 1, para teste.
 De volta ao texto 2.
+Agora um texto 3.
